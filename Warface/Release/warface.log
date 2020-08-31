@@ -1,0 +1,68 @@
+﻿  dllmain.cpp
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Classes.h(328,10): warning C4141: 'virtual': usado mais de uma vez
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Classes.h(540,1): warning C4099: 'IGame': nome de tipo visto primeiro usando 'class', agora visto usando 'struct'
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Classes.h(539): message : consulte a declaração de 'IGame'
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Classes.h(1033,1): warning C4099: 'IActorSystem': nome de tipo visto primeiro usando 'class', agora visto usando 'struct'
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Classes.h(1032): message : consulte a declaração de 'IActorSystem'
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Classes.h(1053,1): warning C4099: 'IRenderer': nome de tipo visto primeiro usando 'class', agora visto usando 'struct'
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Classes.h(1052): message : consulte a declaração de 'IRenderer'
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Classes.h(1176,1): warning C4099: 'IEntitySystem': nome de tipo visto primeiro usando 'class', agora visto usando 'struct'
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Classes.h(1175): message : consulte a declaração de 'IEntitySystem'
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Classes.h(1344,1): warning C4099: 'IEntityClassRegistry': nome de tipo visto primeiro usando 'class', agora visto usando 'struct'
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Classes.h(1343): message : consulte a declaração de 'IEntityClassRegistry'
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Classes.h(1466,1): warning C4099: 'IEntity': nome de tipo visto primeiro usando 'class', agora visto usando 'struct'
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Classes.h(1465): message : consulte a declaração de 'IEntity'
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Classes.h(1730,1): warning C4099: 'IPhysicalWorld': nome de tipo visto primeiro usando 'class', agora visto usando 'struct'
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Classes.h(1729): message : consulte a declaração de 'IPhysicalWorld'
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Classes.h(1832,1): warning C4099: 'ITimer': nome de tipo visto primeiro usando 'class', agora visto usando 'struct'
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Classes.h(1831): message : consulte a declaração de 'ITimer'
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(66,47): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(66,38): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(66,29): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(66,20): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(78,13): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(78,13): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(78,18): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(78,18): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(78,45): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(78,45): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(78,48): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(78,48): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(79,70): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(79,6): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(79,6): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(79,13): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(79,13): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(79,42): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(79,42): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(79,47): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(79,47): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Draw.h(123,13): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+  E:\Programas\Microsoft DirectX SDK (June 2010)\Include\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Includes.h(40,1): warning C4005: 'DIRECTINPUT_VERSION': redefinição de macro
+E:\Programas\Microsoft DirectX SDK (June 2010)\Include\dinput.h(42): message : consulte a definição anterior de 'DIRECTINPUT_VERSION'
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Functions.h(78,8): warning C4101: 'getBoneName': variável local não referenciada
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Functions.h(254,31): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Functions.h(254,18): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Functions.h(369,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Functions.h(370,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Functions.h(371,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Functions.h(372,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Functions.h(373,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Functions.h(374,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Functions.h(375,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Functions.h(376,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Functions.h(377,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Functions.h(378,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Functions.h(379,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Functions.h(380,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Functions.h(512,19): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Functions.h(513,20): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Functions.h(514,24): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Work Build\Warface\Functions.h(594,21): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+  Gerando código
+  79 of 1127 functions ( 7.0%) were compiled, the rest were copied from previous compilation.
+    28 functions were new in current compilation
+    97 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  warface.vcxproj -> C:\Users\caioc\Desktop\Cheat!\Work Build\Release\warface.dll

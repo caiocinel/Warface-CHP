@@ -1,0 +1,222 @@
+﻿  dllmain.cpp
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(328,10): warning C4141: 'virtual': usado mais de uma vez
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(340,30): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IWeaponExtraOne *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(340,30): warning C4302: 'conversão de tipo': truncamento de 'IWeaponExtraOne *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(340,30): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(343,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IWeaponExtraOne *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(343,1): warning C4302: 'conversão de tipo': truncamento de 'IWeaponExtraOne *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(343,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'INT *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(344,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IWeaponExtraOne *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(344,1): warning C4302: 'conversão de tipo': truncamento de 'IWeaponExtraOne *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(344,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'INT *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(353,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IWeaponExtraTwo *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(353,1): warning C4302: 'conversão de tipo': truncamento de 'IWeaponExtraTwo *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(353,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'float *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(354,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IWeaponExtraTwo *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(354,1): warning C4302: 'conversão de tipo': truncamento de 'IWeaponExtraTwo *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(354,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'float *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(361,36): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IWeaponExtraThree *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(361,36): warning C4302: 'conversão de tipo': truncamento de 'IWeaponExtraThree *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(361,36): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(362,25): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IWeaponExtraThree *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(362,25): warning C4302: 'conversão de tipo': truncamento de 'IWeaponExtraThree *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(362,25): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(368,27): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IWeaponSpecific *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(368,27): warning C4302: 'conversão de tipo': truncamento de 'IWeaponSpecific *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(368,27): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'IWeaponExtraOne **' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(369,27): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IWeaponSpecific *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(369,27): warning C4302: 'conversão de tipo': truncamento de 'IWeaponSpecific *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(369,27): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'IWeaponExtraTwo **' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(370,29): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IWeaponSpecific *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(370,29): warning C4302: 'conversão de tipo': truncamento de 'IWeaponSpecific *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(370,29): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'IWeaponExtraThree **' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(372,28): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IWeaponSpecific *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(372,28): warning C4302: 'conversão de tipo': truncamento de 'IWeaponSpecific *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(372,28): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'INT8 *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(373,34): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IWeaponSpecific *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(373,34): warning C4302: 'conversão de tipo': truncamento de 'IWeaponSpecific *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(373,34): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'INT8 *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(407,27): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IWeapon *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(407,27): warning C4302: 'conversão de tipo': truncamento de 'IWeapon *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(407,27): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'IWeaponSpecific **' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(414,31): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IWeapon *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(414,31): warning C4302: 'conversão de tipo': truncamento de 'IWeapon *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(414,31): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'DWORD *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(414,31): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'Vec3 *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(415,22): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IWeapon *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(415,22): warning C4302: 'conversão de tipo': truncamento de 'IWeapon *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(415,22): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'DWORD *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(415,22): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'Vec3 *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(497,20): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(497,20): warning C4302: 'conversão de tipo': truncamento de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(497,20): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(499,30): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(499,30): warning C4302: 'conversão de tipo': truncamento de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(499,30): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'DWORD *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(509,24): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(509,24): warning C4302: 'conversão de tipo': truncamento de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(509,24): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'DWORD *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(511,24): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(511,24): warning C4302: 'conversão de tipo': truncamento de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(511,24): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'DWORD *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(511,24): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'IEntity *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(512,23): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(512,23): warning C4302: 'conversão de tipo': truncamento de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(512,23): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'DWORD *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(512,23): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'CPlayer *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(516,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(516,1): warning C4302: 'conversão de tipo': truncamento de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(516,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(517,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(518,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(519,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'DWORD *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(523,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(523,1): warning C4302: 'conversão de tipo': truncamento de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(523,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'float *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(527,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(527,1): warning C4302: 'conversão de tipo': truncamento de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(527,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'float *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(531,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(531,1): warning C4302: 'conversão de tipo': truncamento de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(531,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'float *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(535,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(535,1): warning C4302: 'conversão de tipo': truncamento de 'IActor *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(535,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'float *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(540,1): warning C4099: 'IGame': nome de tipo visto primeiro usando 'class', agora visto usando 'struct'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(539): message : consulte a declaração de 'IGame'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(544,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IGame *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(544,1): warning C4302: 'conversão de tipo': truncamento de 'IGame *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(544,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'DWORD *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(544,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'ICVar *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(557,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(557,1): warning C4302: 'conversão de tipo': truncamento de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(557,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'float *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(560,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(560,1): warning C4302: 'conversão de tipo': truncamento de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(560,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(563,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(563,1): warning C4302: 'conversão de tipo': truncamento de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(563,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(566,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(566,1): warning C4302: 'conversão de tipo': truncamento de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(566,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(569,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(569,1): warning C4302: 'conversão de tipo': truncamento de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(569,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(573,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(573,1): warning C4302: 'conversão de tipo': truncamento de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(573,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(577,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(577,1): warning C4302: 'conversão de tipo': truncamento de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(577,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(581,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(581,1): warning C4302: 'conversão de tipo': truncamento de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(581,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'float *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(585,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(585,1): warning C4302: 'conversão de tipo': truncamento de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(585,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(589,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(589,1): warning C4302: 'conversão de tipo': truncamento de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(589,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(593,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(593,1): warning C4302: 'conversão de tipo': truncamento de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(593,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(597,1): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(597,1): warning C4302: 'conversão de tipo': truncamento de 'ICVar *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(597,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(859,28): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IGameRules *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(859,28): warning C4302: 'conversão de tipo': truncamento de 'IGameRules *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(859,28): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(860,28): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IGameRules *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(860,28): warning C4302: 'conversão de tipo': truncamento de 'IGameRules *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(860,28): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(862,35): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IGameRules *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(862,35): warning C4302: 'conversão de tipo': truncamento de 'IGameRules *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(862,35): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'DWORD *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(862,35): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'ICaptureSystem *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(863,29): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IGameRules *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(863,29): warning C4302: 'conversão de tipo': truncamento de 'IGameRules *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(863,29): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'DWORD *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(863,29): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'IBombSystem *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(864,30): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IGameRules *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(864,30): warning C4302: 'conversão de tipo': truncamento de 'IGameRules *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(864,30): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'DWORD *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(864,30): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'ICoreSystem *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(865,31): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IGameRules *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(865,31): warning C4302: 'conversão de tipo': truncamento de 'IGameRules *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(865,31): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'DWORD *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(865,31): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'IStormSystem *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1019,30): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IGameFramework *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1019,30): warning C4302: 'conversão de tipo': truncamento de 'IGameFramework *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1019,30): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'IGameRules **' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1033,1): warning C4099: 'IActorSystem': nome de tipo visto primeiro usando 'class', agora visto usando 'struct'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1032): message : consulte a declaração de 'IActorSystem'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1053,1): warning C4099: 'IRenderer': nome de tipo visto primeiro usando 'class', agora visto usando 'struct'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1052): message : consulte a declaração de 'IRenderer'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1176,1): warning C4099: 'IEntitySystem': nome de tipo visto primeiro usando 'class', agora visto usando 'struct'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1175): message : consulte a declaração de 'IEntitySystem'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1340,29): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IEntityRenderProxy *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1340,29): warning C4302: 'conversão de tipo': truncamento de 'IEntityRenderProxy *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1340,29): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1344,1): warning C4099: 'IEntityClassRegistry': nome de tipo visto primeiro usando 'class', agora visto usando 'struct'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1343): message : consulte a declaração de 'IEntityClassRegistry'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1466,1): warning C4099: 'IEntity': nome de tipo visto primeiro usando 'class', agora visto usando 'struct'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1465): message : consulte a declaração de 'IEntity'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1550,14): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'IEntity *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1550,14): warning C4302: 'conversão de tipo': truncamento de 'IEntity *' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1550,14): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'int *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1730,1): warning C4099: 'IPhysicalWorld': nome de tipo visto primeiro usando 'class', agora visto usando 'struct'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1729): message : consulte a declaração de 'IPhysicalWorld'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1832,1): warning C4099: 'ITimer': nome de tipo visto primeiro usando 'class', agora visto usando 'struct'
+C:\Users\caioc\Desktop\Cheat!\Warface\Classes.h(1831): message : consulte a declaração de 'ITimer'
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(50,3): error C2664: 'HRESULT D3DXCreateFontW(LPDIRECT3DDEVICE9,INT,UINT,UINT,UINT,BOOL,DWORD,DWORD,DWORD,DWORD,LPCWSTR,LPD3DXFONT *)': não é possível converter um argumento 11 de 'const char [6]' em 'LPCWSTR'
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(51,54): message : Tipos apontados não são relacionados; conversão requer reinterpret_cast, conversão C-style ou conversão function-style
+E:\Programas\Microsoft DirectX SDK (June 2010)\Include\d3dx9core.h(396,5): message : consulte a declaração de 'D3DXCreateFontW'
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(65,47): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(65,38): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(65,29): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(65,20): warning C4244: 'argumento': conversão de 'double' para 'int', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(77,13): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(77,13): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(77,18): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(77,18): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(77,45): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(77,45): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(77,48): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(77,48): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(78,70): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(78,6): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(78,6): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(78,13): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(78,13): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(78,42): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(78,42): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(78,47): warning C4838: a conversão de 'int' em 'float' requer uma conversão de restrição
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(78,47): warning C4244: 'inicializando': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Draw.h(122,13): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Functions.h(8,107): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'SSystemGlobalEnvironment *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\Functions.h(252,31): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Functions.h(252,18): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Functions.h(367,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Functions.h(368,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Functions.h(369,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Functions.h(370,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Functions.h(371,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Functions.h(372,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Functions.h(373,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Functions.h(374,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Functions.h(375,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Functions.h(376,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Functions.h(377,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Functions.h(378,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Functions.h(510,19): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Functions.h(511,20): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Functions.h(512,24): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\caioc\Desktop\Cheat!\Warface\Functions.h(592,21): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\caioc\Desktop\Cheat!\Warface\dllmain.cpp(69,45): warning C4311: 'conversão de tipo': truncamento de ponteiro de 'HMODULE' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\dllmain.cpp(69,45): warning C4302: 'conversão de tipo': truncamento de 'HMODULE' para 'DWORD'
+C:\Users\caioc\Desktop\Cheat!\Warface\dllmain.cpp(72,6): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'WORD *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\dllmain.cpp(73,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'WORD *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\dllmain.cpp(74,1): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'WORD *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\dllmain.cpp(85,50): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'DWORD *' de tamanho maior
+C:\Users\caioc\Desktop\Cheat!\Warface\dllmain.cpp(91,45): warning C4312: 'conversão de tipo': conversão de 'DWORD' para 'EndScene_' de tamanho maior
