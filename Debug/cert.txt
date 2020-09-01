@@ -1,1 +1,0 @@
-cert.pfx passord "1"

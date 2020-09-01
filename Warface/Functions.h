@@ -12,36 +12,7 @@ std::string name;
 std::string ClassName;
 std::string entidade_ativa = "aa";
 
-static bool flashI = false;
-static bool accuracyI = false;
-static bool minimapI = false;
-static bool reculI = false;
-static bool shutterI = false;
-static bool climbI = false;
-static bool slideI = false;
-static bool noclaymoreI = false;
-static bool sprintI = false;
-static bool ammoI = false;
-static bool nosoundI = false;
-static bool damageI = false;
-static bool espexplosiI = false;
-static bool espnotificationI = false;
-static bool esphealthbarI = false;
-static bool espdistanceI = false;
-static bool espnameI = false;
-static bool espskeletonI = false;
-static bool espboxI = false;
-static bool glowI = false;
-static bool glowhealthbasedI = false;
-static bool esplinesI = false;
-static bool autoshootI = false;
-static bool vectorI = false;
-static bool silentI = false;
-static bool rotateshieldI = false;
-static bool pickupI = false;
-static bool wallshotI = false;
-static bool mi3j2n321312c = false;
-static bool moic897217232 = false;
+
 
 #pragma region Utilities
 float Distance(Vec3 VecA, Vec3 VecB)
@@ -629,7 +600,7 @@ void Functions()
 
 
 
-	if (mi3j2n321312c) {
+	if (Mprecisao) {
 		reculI = true;
 		accuracyI = true;
 	}
@@ -639,7 +610,7 @@ void Functions()
 		accuracyI = false;
 	}
 	/////////////////////////
-	if (itens[1].on_off) {
+	if (Mnoflash) {
 		flashI = true;
 	}
 	else
@@ -647,7 +618,7 @@ void Functions()
 		flashI = false;
 	}
 	/////////////////////////
-	if (itens[2].on_off) {
+	if (Mclaymore) {
 		noclaymoreI = true;
 	}
 	else
@@ -655,7 +626,7 @@ void Functions()
 		noclaymoreI = false;
 	}
 	/////////////////////////
-	if (itens[3].on_off) {
+	if (mSprint) {
 		sprintI = true;
 	}
 	else
@@ -663,7 +634,7 @@ void Functions()
 		sprintI = false;
 	}
 	/////////////////////////
-	if (itens[4].on_off) {
+	if (Mdamage) {
 		damageI = true;
 	}
 	else
@@ -671,7 +642,7 @@ void Functions()
 		damageI = false;
 	}
 	/////////////////////////
-	if (itens[5].on_off) {
+	if (mShutter) {
 		shutterI = true;
 	}
 	else
@@ -679,7 +650,7 @@ void Functions()
 		shutterI = false;
 	}
 	/////////////////////////
-	if (itens[6].on_off) {
+	if (mClimb) {
 		climbI = true;
 	}
 	else
@@ -687,7 +658,7 @@ void Functions()
 		climbI = false;
 	}
 	/////////////////////////
-	if (itens[7].on_off) {
+	if (Mslide) {
 		slideI = true;
 	}
 	else
@@ -695,7 +666,7 @@ void Functions()
 		slideI = false;
 	}
 	/////////////////////////
-	if (itens[8].on_off) {
+	if (mAmmo) {
 		ammoI = true;
 	}
 	else
@@ -703,7 +674,7 @@ void Functions()
 		ammoI = false;
 	}
 	/////////////////////////
-	if (itens[9].on_off) {
+	if (mNosound) {
 		nosoundI = true;
 	}
 	else
@@ -711,7 +682,7 @@ void Functions()
 		nosoundI = false;
 	}
 	/////////////////////////
-	if (itens[10].on_off) {
+	if (MvectorAim) {
 		vectorI = true;
 	}
 	else
@@ -719,7 +690,7 @@ void Functions()
 		vectorI = false;
 	}
 	/////////////////////////
-	if (itens[11].on_off) {
+	if (mSilent) {
 		silentI = true;
 	}
 	else
@@ -727,7 +698,7 @@ void Functions()
 		silentI = false;
 	}
 	/////////////////////////
-	if (moic897217232) {
+	if (MGlow) {
 		glowI = true;
 	}
 	else
@@ -735,7 +706,7 @@ void Functions()
 		glowI = false;
 	}
 	/////////////////////////
-	if (itens[13].on_off) {
+	if (MGlowHB) {
 		glowhealthbasedI = true;
 	}
 	else
@@ -743,7 +714,7 @@ void Functions()
 		glowhealthbasedI = false;
 	}
 	/////////////////////////
-	if (itens[14].on_off) {
+	if (mRotate) {
 		rotateshieldI = true;
 	}
 	else
@@ -751,7 +722,7 @@ void Functions()
 		rotateshieldI = false;
 	}
 	/////////////////////////
-	if (itens[15].on_off) {
+	if (mPickup) {
 		pickupI = true;
 	}
 	else

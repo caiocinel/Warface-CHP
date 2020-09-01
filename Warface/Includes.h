@@ -36,6 +36,7 @@
 #include "imgui/imgui_impl_win32.h"
 #include "imgui/imgui_impl_dx9.h"
 #include "Draw.h"
+#include "Menu.h"
 #include <dinput.h>
 #define DIRECTINPUT_VERSION 0x0800
 

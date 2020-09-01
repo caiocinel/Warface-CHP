@@ -42,7 +42,57 @@ struct  items_ {
 
 items_ itens[200];
 bool glow;
+bool precisao;
+static bool flashI = false;
+static bool accuracyI = false;
+static bool minimapI = false;
+static bool reculI = false;
+static bool shutterI = false;
+static bool climbI = false;
+static bool slideI = false;
+static bool noclaymoreI = false;
+static bool sprintI = false;
+static bool ammoI = false;
+static bool nosoundI = false;
+static bool damageI = false;
+static bool espexplosiI = false;
+static bool espnotificationI = false;
+static bool esphealthbarI = false;
+static bool espdistanceI = false;
+static bool espnameI = false;
+static bool espskeletonI = false;
+static bool espboxI = false;
+static bool glowI = false;
+static bool glowhealthbasedI = false;
+static bool esplinesI = false;
+static bool autoshootI = false;
+static bool vectorI = false;
+static bool silentI = false;
+static bool rotateshieldI = false;
+static bool pickupI = false;
+static bool wallshotI = false;
+static bool mi3j2n321312c = false;
+static bool moic897217232 = false;
+static int damagecount = 1;
 
+
+static bool Mnoflash = false;
+static bool MvectorAim = false;
+static bool Mslide = false;
+static bool Mminimap = false;
+static bool MGlow = false;
+static bool Mprecisao = false;
+static bool Mclaymore = false;
+static bool mSprint = false;
+static bool Mdamage = false;
+static bool mShutter = false;
+static bool mClimb = false;
+static bool mAmmo = false;
+static bool mNosound = false;
+static bool mSilent = false;
+static bool MGlowHB = false;
+static bool mRotate = false;
+static bool mPickup = false;
 
 void CreatFont(LPDIRECT3DDEVICE9 pD3D9) {
 
@@ -238,12 +288,6 @@ void keyboard() {
 
 		}
 	}
-	if (GetAsyncKeyState(VK_LEFT) & 1)
-		itens[index].on_off = false;
-
-
-	if (GetAsyncKeyState(VK_RIGHT) & 1)
-		itens[index].on_off = true;
 
 	if (GetAsyncKeyState(VK_DELETE) & 1)
 		bShow = (!bShow);
