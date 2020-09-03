@@ -825,13 +825,13 @@ void Functions()
 					if (MyTeam(MyPlayer, EnemyPlayer))
 					{
 
-						if (isVisible(EnemyBone, mHead))
+						if (isVisible(EnemyBone, mHead) && glowVisible)
 						{
 							pEntityRenderProxy = (IEntityRenderProxy*)(pEnt->GetProxy(ENTITY_PROXY_RENDER));
 							if (!pEntityRenderProxy)
 								continue;
 							pEntityRenderProxy->SetRndFlags(eAllMap);
-							pEntityRenderProxy->SetHUDSilhouettesParams(0, 255, 0, 0);
+							pEntityRenderProxy->SetHUDSilhouettesParams(GlowColor[0], GlowColor[1], GlowColor[2], 0.0 );
 						}
 						else
 						{
@@ -839,7 +839,7 @@ void Functions()
 							if (!pEntityRenderProxy)
 								continue;
 							pEntityRenderProxy->SetRndFlags(eAllMap);
-							pEntityRenderProxy->SetHUDSilhouettesParams(0, 0, 255, 0);
+							pEntityRenderProxy->SetHUDSilhouettesParams(GlowColorHide[0], GlowColorHide[1], GlowColorHide[2], 0.0);
 
 
 						}

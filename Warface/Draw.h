@@ -74,8 +74,6 @@ static bool wallshotI = false;
 static bool mi3j2n321312c = false;
 static bool moic897217232 = false;
 static int damagecount = 1;
-
-
 static bool Mnoflash = false;
 static bool MvectorAim = false;
 static bool Mslide = false;
@@ -93,6 +91,14 @@ static bool mSilent = false;
 static bool MGlowHB = false;
 static bool mRotate = false;
 static bool mPickup = false;
+static int mAimbot = -1;
+static bool glowVisible = true;
+static bool glowHidden = true;
+static float GlowColor[3]{0,0,0};
+static float GlowColorHide[3]{0,0,0};
+
+
+
 
 void CreatFont(LPDIRECT3DDEVICE9 pD3D9) {
 
@@ -289,8 +295,7 @@ void keyboard() {
 		}
 	}
 
-	if (GetAsyncKeyState(VK_DELETE) & 1)
-		bShow = (!bShow);
+
 
 
 	itens[index].seleted = true;
