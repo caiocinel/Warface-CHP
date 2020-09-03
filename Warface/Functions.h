@@ -242,7 +242,7 @@ void __fastcall DrawSkeleton(IEntity* pEnt, DWORD color)
 	BoneLine(70, 71, pEnt, color);
 	BoneLine(5, 77, pEnt, color);
 	BoneLine(77, 78, pEnt, color);
-	HeadDraw(9, 16, pEnt, YELLOW);
+	HeadDraw(9, 16, pEnt, color);
 	BoneLine(69, 49, pEnt, color);
 	BoneLine(49, 52, pEnt, color);
 	BoneLine(52, 60, pEnt, color);
@@ -849,6 +849,17 @@ void Functions()
 
 				}
 
+				if (skeleton)
+				{
+					if (MyTeam(MyPlayer, EnemyPlayer))
+					{
+
+						DrawSkeleton(pEnt, Color::Green);
+
+					}
+
+
+				}
 
 
 
@@ -876,6 +887,7 @@ void Functions()
 									if (!MyPlayer->IsDead())
 									{
 										Aim(MyPlayer, EnemyBone);
+										MyPlayer->GetCurrentItem()->GetIWeapon()->StartFire();
 									}
 								}
 							if (silentI)

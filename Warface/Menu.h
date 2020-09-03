@@ -23,6 +23,7 @@ void DrawMenu() {
                 ImGui::EndTabItem();
             }
             if (ImGui::BeginTabItem(XorString("Wallhack"))) {
+                ImGui::Checkbox(XorString("Skeleton"), &skeleton);
                 ImGui::Checkbox(XorString("Glow"), &MGlow);
                 if (MGlow) {
                     ImGui::SameLine();

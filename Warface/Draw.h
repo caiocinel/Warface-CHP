@@ -94,6 +94,7 @@ static bool mPickup = false;
 static int mAimbot = -1;
 static bool glowVisible = true;
 static bool glowHidden = true;
+static bool skeleton = false;
 static float GlowColor[3]{0,0,0};
 static float GlowColorHide[3]{0,0,0};
 
